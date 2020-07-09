@@ -1,7 +1,7 @@
 //Write a program to print the following pattern (hint: use nested loop)
 
 
-#include <stdio.h>
+#include<stdio.h>
 
 void main(){
 
