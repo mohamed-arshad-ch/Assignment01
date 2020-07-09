@@ -16,15 +16,9 @@ void main(){
        {
            sum=sum+i;
           
-       }
-      
-       
+       }      
        
    }
    printf("Sum Of Odd Number : %d\n",sum);
-   
-
-  
-
  
 }
