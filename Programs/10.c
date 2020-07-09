@@ -34,11 +34,13 @@ void main(){
     printf("\n");
    for (int i = 0; i < limit; i++)
    {
+       printf("First Array\n");
        printf("%d \n",arr1[i]);
    }
    printf("\n");
     for (int i = 0; i < limit; i++)
    {
+       printf("Second Array\n");
        printf("%d \n",arr2[i]);
    }
    
