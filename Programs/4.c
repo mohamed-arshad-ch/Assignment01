@@ -1,4 +1,4 @@
-//Write a program to find the simple interest.
+//Write a program to check whether a student has passed or failed in a subject after he or she enters their mark 
 #include <stdio.h>
 
 void main(){
